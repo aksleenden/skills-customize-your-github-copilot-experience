@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Master string manipulation, file I/O, and text processing techniques",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-04-30"
     }
   ]
 }
